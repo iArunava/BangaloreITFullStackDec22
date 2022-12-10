@@ -1,0 +1,104 @@
+# EBTS - Enterprise Building Training Solutions
+## Enabling Your Future
+
+
+### Day 1 - HTML and CSS Basics
+---------
+
+
+- More about the instructor
+
+
+- Goals and objectives for the day
+- - https://github.com/iArunava/BangaloreITFullStackDec22.git
+
+
+- HTML Tag, Element, Attribute
+- - Basic Structure - basic.html
+- - <!DOCTYPE> Declaration - helps browsers to display web pages correctly
+
+
+
+- Headers paragraphs 
+- - h, p, br, body
+
+
+- Quotations, Comments, Formatting
+- - b, strong, i, em, mark, small, del, ins, sub, sup
+- - blockquote, q, abbr, address, cite, bdo
+- - comments
+
+
+
+- Styles, Links, Images, Favicon
+- - inline styles <tag style="property:value"/>
+- - href, target, mailto, title
+- - absolute and relative urls
+- - link colors
+- - link bookmarks
+- - images, src, alt, width, height
+- - background images
+- - picture
+- - favicon.cc
+
+
+
+
+- Tables and Lists
+- - table, tr, td, th, caption, thead, tfoot, tbody
+- - table borders, sizes, headers, padding, colspan, rowspan
+- - unordered and ordered list, description lists
+
+
+
+
+- Block and Inline
+- - block elements starts at a new line and browser automatically adds some padding and margin to it
+- - An inline element does not start on a new line and it only takes up as much width as necessary
+- - Some block elements
+- - Some inline elemnts
+
+
+
+- Classes and ID
+- - class examples - class.html
+- - id examples - id.html
+
+
+
+
+- iFrame
+- - Embed webpage
+- - Embed Youtube
+- - name, title, style
+
+
+
+- File Paths and Head
+- - head, link, meta
+
+
+- Layout
+- - CSS Framework, float property, flexbox, grid
+- - float.html
+
+
+- Others
+- - ComputerCode - code, kbd, samp, pre, var
+- - semantic elements - div,span, header,footer,form
+- - entities
+- - symbol
+- - emojis
+- - charset
+
+
+
+- Video and Audio
+- - video, audio
+
+
+
+- Cascading Style Sheets Intro
+- - Selectors
+- - cascading order
+- - external, inline, internal, comments
