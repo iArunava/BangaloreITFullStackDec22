@@ -102,3 +102,20 @@
 - - Selectors
 - - cascading order
 - - external, inline, internal, comments
+
+
+
+- Project: Personal Website
+
+
+
+
+### Day 2 - Deeper Dive into CSS
+
+- CSS Commons
+- - colors, background, border, margins, margin collapse
+- - padding, height, width
+- - combinators, pseudoclass, pseudoelements
+
+- CSS Keyframes
+- - spinner
