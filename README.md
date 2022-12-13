@@ -7,3 +7,5 @@ The content for each day is present in the respective directories
 - day3 - Simple Javascript Snake game that we are going to build.
 - day4 - bootstrap landing page that we are going to code
 - day5 - php/python crud app with login and logout
+
+Inclass change

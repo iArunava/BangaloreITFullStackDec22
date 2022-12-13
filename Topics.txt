@@ -118,4 +118,12 @@
 - - combinators, pseudoclass, pseudoelements
 
 - CSS Keyframes
+- - Move Box
 - - spinner
+
+- CSS Components
+- - Badges
+- - Star Rating
+- - User Rating
+- - Flip Card
+- - Animated Search
