@@ -1,3 +1,4 @@
+# https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-22-04
 sudo apt-get update
 sudo apt-get install apache2
 sudo apt install php
@@ -12,4 +13,6 @@ sudo mysql_secure_installation
 # Hit no for everything, unless you want otherwise
 
 # sudo mysql --user=root
+# no space between p and the password
+# sudo mysql --user=root -p<Password>
 
